@@ -24,7 +24,9 @@ Couple of remarks about course and training of Azure Data Solitions
 9. [Monitoring and Troubleshooting Data Storage and Processing](mod09/Monitoring.md)
 
 ## Training sessions specific schedule
+
 ### 17.09.2019 - Warszawa
+
 1. [Azure for the Data Engineer](mod01/Intro.md)
 2. [Working with Data Storage](mod02/Storage.md)
 3. [Building Globally Distributed Databases with Cosmos DB](mod04/CosmoDB.md)
