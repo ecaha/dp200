@@ -1,5 +1,6 @@
 # DP-200 Azure Data Solution - Implementation
 Couple of remarks about course and training of Azure Data Solitions
+Free training materials (corseware) on FutureProof [website](https://future-proof.net/track/implementing-an-azure-data-solution)
 
 ## Exam
 - Not the easiest one, but not so difficult if you compare it to AZ-300 even to AZ-103
