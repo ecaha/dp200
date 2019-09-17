@@ -6,7 +6,13 @@ Couple of remarks about course and training of Azure Data Solitions
 - Broad range of technologies is covered in some depth
 - No virtual labs :-(  
 - Databricks - spin up cluster, working with notebook, connecting to data, basic libraries, Spark, Python
-- 
+- Storage - focus on Data Lake Gen 2 (but Gen 1 as well), loading blobs, using polybase, mounting to Databricks, security
+- CosmosDB - scalability, avaliability, partitioning, RU
+- Azure SQL RDBMS - more DW than SQL, Polybase, ADF load, partitioning (indexes, distributing tables to node), vCPU, DTU, DWU
+- Stream Analytics - SU, IoT hub, Event hub/ Event grid, storage, azure functions
+- ADF - basic concepts, transformations, SSIS
+- Monitoring - Azure Log analytics, Alerts, Actions
+- Security - how to secure data TDE, RLS, CLS, RBAC, AAD, keys, credentials
 
 ## Recommended preparation for exam
 - Practice, practice, practice
