@@ -16,7 +16,7 @@ Couple of remarks about course and training of Azure Data Solitions
 1. [Azure for the Data Engineer](mod01/Intro.md)
 2. [Working with Data Storage](mod02/Storage.md)
 3. [Enabling Team Based Data Science with Azure Databricks](mod03/DataBrick.md)
-4. [Building Globally Distributed Databases with Cosmos DB](mod04/CosmoDB.md)
+4. [Building Globally Distributed Databases with Cosmos DB](mod04/CosmosDB.md)
 5. [Working with Relational Data Stores in the Cloud](mod05/AzureRDBMS.md)
 6. [Performing Real-Time Analytics with Stream Analytics](mod06/AzureStream.md)
 7. [Orchestrating Data Movement with Azure Data Factory](mod07/ADF.md)
@@ -29,7 +29,7 @@ Couple of remarks about course and training of Azure Data Solitions
 
 1. [Azure for the Data Engineer](mod01/Intro.md)
 2. [Working with Data Storage](mod02/Storage.md)
-3. [Building Globally Distributed Databases with Cosmos DB](mod04/CosmoDB.md)
+3. [Building Globally Distributed Databases with Cosmos DB](mod04/CosmosDB.md)
 4. [Working with Relational Data Stores in the Cloud](mod05/AzureRDBMS.md)
 5. [Securing Azure Data Platforms](mod08/AzureDataSecurity.md)
 
